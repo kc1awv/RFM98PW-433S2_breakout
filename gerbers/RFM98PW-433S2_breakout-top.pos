@@ -1,0 +1,16 @@
+### Module positions - created on Wed 02 Mar 2022 04:28:16 PM EST ###
+### Printed by Pcbnew version 6.0.2+dfsg-1~bpo11+1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val               Package                                           PosX       PosY       Rot  Side
+C3        4u7               C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   166.3700   -99.0600   90.0000  top
+C4        1u                C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   163.1950   -99.0600   90.0000  top
+C5        0u1               C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   160.0200   -99.0600   90.0000  top
+J1        U.FL-R-SMT-1(10)  HRS_U.FL-R-SMT-1(10)                          160.4772  -106.1212  -90.0000  top
+J2        Conn_01x05_Male   PinHeader_1x05_P2.54mm_Vertical               144.7800  -111.7600  -90.0000  top
+J3        Conn_01x03_Male   PinHeader_1x03_P2.54mm_Vertical               154.9400   -86.3600  -90.0000  top
+J4        Conn_01x02_Male   PinHeader_1x02_P2.54mm_Vertical               144.7800   -86.3600  -90.0000  top
+J5        Conn_01x02_Male   PinHeader_1x02_P2.54mm_Vertical               170.1800   -96.5200   90.0000  top
+J6        Conn_01x02_Male   PinHeader_1x02_P2.54mm_Vertical               124.4600   -86.3600  -90.0000  top
+U1        RFM98PW-433S2     RFM98PW-433S2                                 138.7170   -99.1290    0.0000  top
+## End

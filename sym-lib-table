@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name "RFM98PW-433S2")(type "KiCad")(uri "/home/smiller/git/M17-RFM96PW/RFM98PW-433S2.kicad_sym")(options "")(descr ""))
   (lib (name "U.FL-R-SMT-1_10_")(type "Legacy")(uri "/home/smiller/Documents/U.FL-R-SMT-1_10_/U.FL-R-SMT-1_10_.lib")(options "")(descr ""))
+  (lib (name "M17")(type "KiCad")(uri "${KIPRJMOD}/M17.kicad_sym")(options "")(descr ""))
 )
